@@ -1,0 +1,1 @@
+draw_line_color(287,0,287,1080,c_black,c_black)
